@@ -20,6 +20,9 @@ This is a responsive and modern personal portfolio website built using **Next.js
 ## Folder Structure
 
 /app - Application routes and pages
+
 /components - Reusable UI components
+
 /public - Static assets like images
+
 /styles - Global styles (Tailwind config)
