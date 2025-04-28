@@ -5,7 +5,7 @@ This is a responsive and modern personal portfolio website built using **Next.js
 ## Features
 
 - Responsive design.
-- Clean and modern UI
+- Clean and modern UI.
 - Built using Next.js and Tailwind CSS
 - Easy navigation through all sections
 - Optimized for performance
